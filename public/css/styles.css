@@ -1,0 +1,140 @@
+html body {
+}
+
+.main {
+}
+
+.header {
+    width: 100%;
+}
+
+.header button {
+    background-color: #ff7d00;
+    color: #ffffff;
+}
+
+.header a {
+    color: #ffffff;
+}
+.header a:hover {
+    color: #ff7d00;
+}
+
+.header .dropdown-item {
+    color: #363537;
+}
+
+.header .dropdown-menu a:active {
+    background-color: transparent;
+}
+
+.footer a {
+    color: #ffffff;
+}
+.footer a:hover {
+    color: #ff7d00;
+}
+
+.sidebar {
+    width: 205px;
+    height: 500px;
+    float: left;
+}
+
+.main-section {
+    width: 100%;
+    height: auto;
+}
+
+.second-section {
+    padding-top: 30px;
+    padding-bottom: 1%;
+    height: auto;
+    font-size: 15px;
+    text-align: center;
+}
+
+.second-section button {
+    background-color: #ff7d00;
+    color: #ffffff;
+    margin-bottom: 1%;
+}
+
+.second-section a {
+    background-color: #dced31;
+    color: #363537;
+    border: 0px;
+}
+
+.second-section .card-center .card {
+    width: 350px;
+    height: auto;
+    float: left;
+    margin: 2%;
+}
+
+.second-section .card img {
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+
+.second-section .card-center {
+    width: 100%;
+    height: 450px;
+}
+
+.second-section .card-courses {
+    width: 100%;
+    height: 400px;
+}
+
+.second-section .card-courses .card {
+    width: 250px;
+    height: auto;
+    float: left;
+    margin: 2%;
+}
+
+.second-section .card-level {
+    width: 100%;
+    height: 400px;
+}
+
+.second-section .card-level .card {
+    width: 250px;
+    height: auto;
+    float: left;
+}
+
+.card-suscription {
+    width: 100%;
+    height: 550px;
+}
+
+.second-section .card-suscription .card {
+    width: 300px;
+    height: auto;
+    float: left;
+    margin: 10px;
+}
+
+.login {
+    width: 400px;
+    height: 460px;
+    margin-left: 550px;
+    background-color: #f4f6f6;
+    padding: 30px;
+}
+
+.footer {
+    width: 100%;
+    height: 50px;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.footer {
+    align-items: center;
+    font-size: 11px;
+}
