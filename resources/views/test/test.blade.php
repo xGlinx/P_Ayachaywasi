@@ -28,7 +28,7 @@
                  <img src="{{ asset('img/people.png') }}" width="30" height="30" class="d-inline-block align-top" alt="">
                </a>
                <button class="btn" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                 Lucía Ramírez
+                User
                </button>
                <div class="dropdown-menu">
                  <a class="dropdown-item" href="{{url('/cv')}}">Perfil</a>

@@ -30,7 +30,7 @@
                  <img src="{{ asset('img/avatar.png') }}" width="30" height="30" class="d-inline-block align-top" alt="">
                </a>
                <button class="btn" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                 Alex Turner
+                User
                </button>
                <div class="dropdown-menu">
                  <a class="dropdown-item" href="index1.html">Cerrar Sesión</a>
